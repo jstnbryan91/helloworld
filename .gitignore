@@ -102,6 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
 a_var= 2
 if a_var == 2:
  print (hello world)
